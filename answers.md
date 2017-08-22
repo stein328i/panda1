@@ -8,7 +8,7 @@ image = document.querySelector(".photography").src = "https://placebear.com/325/
 
 <!-- Select the heading that says "Panda the Bear" and change it to your own name. -->
 
-title = document.querySelector("h1").innerText = "Nabil Wasti";
+title = document.querySelector("h1").innerText = "Stein Tan";
 
 <!-- Select the heading that says "Employment" and change it to something else. (hint: use a descendant selector) -->
 
